@@ -1,6 +1,7 @@
 # training-drupal
 How to expert drupal 7
 
+https://github.com/dearvn/training-drupal/wiki
 
 # Drupal Training
 ### Production & Support Engineer
